@@ -4,7 +4,7 @@
 
 I am a Java Developer :computer: Just starting career in IT but highly-motivated and driven professional,  determined to continue developing my skills in a dynamic company. Looking for a full time role in an agile environment, with a maximum exposure to multiple challenges. :zap: :zap: :zap:
 
-- 🔭 I’m currently working on developing my first own apps in <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </a> It is an application that will allow you to create groups of users who compete for the title of the best football match tipster. :soccer::trophy: 
+- 🔭 I’m currently working on developing my first own apps in <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </a> <a href="https://github.com/SzymonTomalik/BWF">BWF (Bet With Friends) </a> - It is an application that will allow you to create groups of users who compete for the title of the best football match tipster. :soccer::trophy: 
 - 🌱 I’m currently learning how to do just that :grin: of course in <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> </a> :heavy_exclamation_mark: All helpful suggestions are appreciated :blush: 
 - 🤔 I’m looking for help with the appearance of this :arrow_up: app, before I learn frontend myself :sweat_smile: 
 - 📫 How to reach me: :speech_balloon: just write to talk, or send :e-mail: to stomalik@gmail.com 
