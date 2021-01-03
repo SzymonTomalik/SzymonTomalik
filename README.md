@@ -22,12 +22,11 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150829%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 12 Contributions in the Year 2021
+> 🏆 18 Contributions in the Year 2021
  > 
 > 📦 6.1 kB Used in Github's Storage 
  > 
@@ -59,6 +58,11 @@ Sunday       41 commits     ████░░░░░░░░░░░░░�
 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
 
 **I Mostly Code in Java** 
 
