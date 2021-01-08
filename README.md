@@ -22,6 +22,61 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161303%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 60 Contributions in the Year 2021
+ > 
+> 📦 6.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+🌆 Daytime    89 commits     ████████░░░░░░░░░░░░░░░░░   35.32% 
+🌃 Evening    114 commits    ███████████░░░░░░░░░░░░░░   45.24% 
+🌙 Night      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.68%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Tuesday      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Thursday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Friday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Saturday     45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Sunday       60 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             ████████████████████░░░░░   80.0% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
