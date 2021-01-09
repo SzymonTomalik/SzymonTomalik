@@ -22,19 +22,19 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-171-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161303%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 60 Contributions in the Year 2021
+> 🏆 61 Contributions in the Year 2021
  > 
 > 📦 6.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -64,6 +64,13 @@ Sunday       60 commits     ██████░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
+charity                  6 hrs 26 mins       ███████████████████░░░░░░   78.6% 
+CharityDonateApp         59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+BWF                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+jee-scrumlab             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+
 ```
 
 **I Mostly Code in Java** 
