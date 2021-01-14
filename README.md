@@ -22,13 +22,13 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160701%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160685%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 82 Contributions in the Year 2021
  > 
 > 📦 6.7 kB Used in Github's Storage 
  > 
@@ -41,22 +41,22 @@ I'm currently working on and mastering:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
-🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   35.34% 
-🌃 Evening    123 commits    ███████████░░░░░░░░░░░░░░   46.24% 
-🌙 Night      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
+🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
+🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   34.43% 
+🌃 Evening    130 commits    ████████████░░░░░░░░░░░░░   47.62% 
+🌙 Night      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Thursday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Friday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Sunday       65 commits     ██████░░░░░░░░░░░░░░░░░░░   24.44%
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+Wednesday    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Friday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Sunday       65 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81%
 
 ```
 
@@ -74,9 +74,8 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     8 repos             ████████████████████░░░░░   80.0% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Java                     9 repos             ██████████████████████░░░   90.0% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
