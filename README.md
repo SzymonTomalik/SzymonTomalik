@@ -22,7 +22,7 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160694%20lines%20of%20code-blue)
 
@@ -65,11 +65,11 @@ Sunday       66 commits     ██████░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-charity                  10 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.6% 
-CharityDonateApp         6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.2% 
-demo                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-BWF                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+CharityDonateApp         9 hrs 8 mins        ████████████░░░░░░░░░░░░░   51.26% 
+charity                  4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   27.09% 
+demo                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+BWF                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 ```
 
