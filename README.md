@@ -22,13 +22,13 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160694%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160755%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 83 Contributions in the Year 2021
+> 🏆 90 Contributions in the Year 2021
  > 
 > 📦 6.7 kB Used in Github's Storage 
  > 
@@ -41,22 +41,22 @@ I'm currently working on and mastering:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   34.31% 
-🌃 Evening    131 commits    ████████████░░░░░░░░░░░░░   47.81% 
-🌙 Night      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   33.45% 
+🌃 Evening    132 commits    ███████████░░░░░░░░░░░░░░   46.98% 
+🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Wednesday    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Friday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
-Sunday       66 commits     ██████░░░░░░░░░░░░░░░░░░░   24.09%
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
+Wednesday    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+Sunday       66 commits     █████░░░░░░░░░░░░░░░░░░░░   23.49%
 
 ```
 
