@@ -22,7 +22,7 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160755%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@ I'm currently working on and mastering:
 
 > 🏆 90 Contributions in the Year 2021
  > 
-> 📦 6.7 kB Used in Github's Storage 
+> 📦 6.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,11 +65,10 @@ Sunday       66 commits     █████░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-CharityDonateApp         9 hrs 8 mins        ████████████░░░░░░░░░░░░░   51.26% 
-charity                  4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   27.09% 
-demo                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
-BWF                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+CharityDonateApp         13 hrs 55 mins      ███████████████████░░░░░░   78.77% 
+demo                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+BWF                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 ```
 
