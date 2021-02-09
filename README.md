@@ -26,15 +26,15 @@ I'm currently working on and mastering:
 
 **🐱 My Github Data** 
 
-> 🏆 111 Contributions in the Year 2021
+> 🏆 97 Contributions in the Year 2021
  > 
 > 📦 11.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
