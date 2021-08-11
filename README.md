@@ -63,7 +63,11 @@ Sunday       94 commits     ██████░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ingInterviewTask         9 mins              █████████████░░░░░░░░░░░░   52.09% 
+demo                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+pscTransitionTechnology  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
+UltimateSystemsRecruitmen1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
 
 ```
 
@@ -78,7 +82,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
