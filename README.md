@@ -24,11 +24,11 @@ I'm currently working on and mastering:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346949%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 152 Contributions in the Year 2021
  > 
-> 📦 11.8 kB Used in Github's Storage 
+> 📦 11.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,11 +63,7 @@ Sunday       77 commits     ████████░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-ingInterviewTask         9 mins              █████████████░░░░░░░░░░░░   52.09% 
-demo                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-pscTransitionTechnology  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
-UltimateSystemsRecruitmen1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
+No Activity Tracked This Week
 
 ```
 
@@ -82,7 +78,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
