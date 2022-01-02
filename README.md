@@ -2,7 +2,16 @@
 #### And i'm glad you visited my profile :wink:
 ![And i'm glad you visited my profile :wink:](https://github.com/SzymonTomalik/SzymonTomalik/blob/main/Simple%20Technology%20LinkedIn%20Banner.png)
 
-I am a Java Developer :computer: Just started career in IT but highly-motivated and driven professional,  determined to continue developing my skills in a dynamic company. Looking for a full time role in an agile environment, with a maximum exposure to multiple challenges. :zap: :zap: :zap:
+Today I am a Junior Process Automation Software Developer, :computer: 
+I am currently coding robots for business process automation in C#.
+However, my first programming language was Java and most of the visible projects are from Java. In the future I would like to upload here some projects in C# and I hope that time will allow it.
+
+The description below is already outdated. I will try to fix it as soon as possible.
+
+
+
+-------------------------------------------------------------------------------------
+Just started career in IT but highly-motivated and driven professional,  determined to continue developing my skills in a dynamic company. Looking for a full time role in an agile environment, with a maximum exposure to multiple challenges. :zap: :zap: :zap:
 
 - 🔭 I’m currently working on developing my first own apps in <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </a> <a href="https://github.com/SzymonTomalik/BWF">BWF (Bet With Friends) </a> - It is an application that will allow you to create groups of users who compete for the title of the best football match tipster. :soccer::trophy: 
 - 🌱 I’m currently learning how to do just that :grin: of course in <a href="https://www.java.com" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="java" width="20" height="20"/> </a> :heavy_exclamation_mark: All helpful suggestions are appreciated :blush: 
