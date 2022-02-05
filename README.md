@@ -31,39 +31,39 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-387%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 14 Contributions in the Year 2022
  > 
-> 📦 12.7 kB Used in GitHub's Storage 
+> 📦 12.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.83% 
-🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.57% 
-🌃 Evening    134 commits    ████████████████░░░░░░░░░   64.11% 
-🌙 Night      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48%
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
+🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   21.66% 
+🌃 Evening    137 commits    ███████████████░░░░░░░░░░   63.13% 
+🌙 Night      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
-Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Wednesday    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
-Saturday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-Sunday       78 commits     █████████░░░░░░░░░░░░░░░░   37.32%
+Monday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
+Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Wednesday    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
+Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Saturday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Sunday       78 commits     █████████░░░░░░░░░░░░░░░░   35.94%
 
 ```
 
@@ -88,7 +88,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2022 01:02:09 UTC
+ Last Updated on 05/02/2022 00:55:40 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
