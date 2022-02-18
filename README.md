@@ -31,13 +31,13 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-387%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17 Contributions in the Year 2022
+> 🏆 23 Contributions in the Year 2022
  > 
-> 📦 12.8 kB Used in GitHub's Storage 
+> 📦 17.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,22 +48,22 @@ I'm currently working on and mastering:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-🌆 Daytime    50 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-🌃 Evening    137 commits    ███████████████░░░░░░░░░░   62.27% 
-🌙 Night      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
+🌆 Daytime    50 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
+🌃 Evening    143 commits    ███████████████░░░░░░░░░░   63.27% 
+🌙 Night      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Wednesday    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Saturday     41 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
-Sunday       79 commits     █████████░░░░░░░░░░░░░░░░   35.91%
+Monday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
+Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
+Saturday     41 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
+Sunday       79 commits     ████████░░░░░░░░░░░░░░░░░   34.96%
 
 ```
 
@@ -72,7 +72,8 @@ Sunday       79 commits     █████████░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-SSTApp                   24 mins             █████████████████████████   100.0%
+SSTApp                   3 hrs 37 mins       ████████████████████████░   96.83% 
+soccer-master            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
 
 ```
 
@@ -81,14 +82,13 @@ SSTApp                   24 mins             ███████████�
 ```text
 Java                     9 repos             █████████████████░░░░░░░░   69.23% 
 CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
 
 ```
 
 
 
- Last Updated on 16/02/2022 01:09:04 UTC
+ Last Updated on 18/02/2022 01:12:16 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
