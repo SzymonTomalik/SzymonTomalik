@@ -72,8 +72,7 @@ Sunday       79 commits     ████████░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-SSTApp                   10 hrs 20 mins      ████████████████████████░   98.01% 
-soccer-master            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +87,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 24/02/2022 01:12:41 UTC
+ Last Updated on 01/03/2022 01:19:29 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
