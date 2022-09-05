@@ -31,7 +31,7 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532%20Thousand%20lines%20of%20code-blue)
 
@@ -47,37 +47,6 @@ I'm currently working on and mastering:
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-🌆 Daytime    29 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-🌃 Evening    75 commits     ████████████████░░░░░░░░░   63.56% 
-🌙 Night      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-Wednesday    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-Thursday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Saturday     29 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-Sunday       39 commits     ████████░░░░░░░░░░░░░░░░░   33.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -89,7 +58,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 02:11:32 UTC
+ Last Updated on 05/09/2022 02:20:14 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
