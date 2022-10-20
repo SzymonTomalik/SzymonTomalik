@@ -81,15 +81,15 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     8 repos             ████████████████░░░░░░░░░   66.67% 
-CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Java                     6 repos             ███████████████░░░░░░░░░░   60.0% 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
 
 
- Last Updated on 19/10/2022 02:16:41 UTC
+ Last Updated on 20/10/2022 02:21:09 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
