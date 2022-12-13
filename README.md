@@ -39,7 +39,7 @@ I'm currently working on and mastering:
 
 > 🏆 23 Contributions in the Year 2022
  > 
-> 📦 16.9 kB Used in GitHub's Storage 
+> 📦 17.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,37 +47,6 @@ I'm currently working on and mastering:
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-🌆 Daytime    29 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-🌃 Evening    75 commits     ████████████████░░░░░░░░░   63.56% 
-🌙 Night      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-Wednesday    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-Thursday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Saturday     29 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-Sunday       39 commits     ████████░░░░░░░░░░░░░░░░░   33.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -89,7 +58,7 @@ HTML                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 12/12/2022 01:27:43 UTC
+ Last Updated on 13/12/2022 01:29:38 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
