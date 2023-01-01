@@ -37,7 +37,7 @@ I'm currently working on and mastering:
 
 **🐱 My GitHub Data** 
 
-> 🏆 23 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 17.0 kB Used in GitHub's Storage 
  > 
@@ -89,7 +89,7 @@ HTML                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 31/12/2022 01:20:40 UTC
+ Last Updated on 01/01/2023 01:40:44 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
