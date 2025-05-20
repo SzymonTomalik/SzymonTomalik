@@ -39,8 +39,6 @@ I'm currently working on and mastering:
 
 > 📦 17.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -86,7 +84,7 @@ CSS                      2 repos             █████░░░░░░�
 
 
 
- Last Updated on 19/05/2025 01:51:54 UTC
+ Last Updated on 20/05/2025 01:48:05 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
