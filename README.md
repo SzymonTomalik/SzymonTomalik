@@ -31,8 +31,6 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2044%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-541.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -86,7 +84,7 @@ CSS                      2 repos             █████░░░░░░�
 
 
 
- Last Updated on 15/10/2025 01:42:18 UTC
+ Last Updated on 16/10/2025 01:41:10 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
