@@ -45,34 +45,6 @@ I'm currently working on and mastering:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-🌆 Daytime                75 commits          ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌃 Evening                167 commits         ███████████████░░░░░░░░░░   59.64 % 
-🌙 Night                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Wednesday                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Thursday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Saturday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Sunday                   95 commits          ████████░░░░░░░░░░░░░░░░░   33.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -84,7 +56,7 @@ CSS                      2 repos             █████░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:50:43 UTC
+ Last Updated on 25/07/2026 02:49:58 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
