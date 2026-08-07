@@ -31,8 +31,6 @@ I'm currently working on and mastering:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymonTomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-tomalik-53b352106/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/szymon.tomalik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymono__/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2022%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-541.26%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,40 +45,6 @@ I'm currently working on and mastering:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-🌆 Daytime                75 commits          ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌃 Evening                167 commits         ███████████████░░░░░░░░░░   59.64 % 
-🌙 Night                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Wednesday                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Thursday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Saturday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Sunday                   95 commits          ████████░░░░░░░░░░░░░░░░░   33.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -92,7 +56,7 @@ CSS                      2 repos             █████░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:45:06 UTC
+ Last Updated on 07/08/2026 02:45:45 UTC
 <!--END_SECTION:waka-->
 
 :pray: :pray: :pray: For the above statistics, thanks to <a href="https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
